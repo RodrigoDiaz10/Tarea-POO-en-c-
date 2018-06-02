@@ -1,0 +1,11 @@
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\auto\bin\Debug\netcoreapp2.1\auto.deps.json
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\auto\bin\Debug\netcoreapp2.1\auto.runtimeconfig.json
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\auto\bin\Debug\netcoreapp2.1\auto.runtimeconfig.dev.json
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\auto\bin\Debug\netcoreapp2.1\auto.dll
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\auto\bin\Debug\netcoreapp2.1\auto.pdb
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\auto\obj\Debug\netcoreapp2.1\auto.csprojAssemblyReference.cache
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\auto\obj\Debug\netcoreapp2.1\auto.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\auto\obj\Debug\netcoreapp2.1\auto.AssemblyInfoInputs.cache
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\auto\obj\Debug\netcoreapp2.1\auto.AssemblyInfo.cs
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\auto\obj\Debug\netcoreapp2.1\auto.dll
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\auto\obj\Debug\netcoreapp2.1\auto.pdb
