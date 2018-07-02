@@ -1,0 +1,11 @@
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\ordenarVectores1\obj\Debug\netcoreapp2.1\ordenarVectores1.csprojAssemblyReference.cache
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\ordenarVectores1\obj\Debug\netcoreapp2.1\ordenarVectores1.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\ordenarVectores1\obj\Debug\netcoreapp2.1\ordenarVectores1.AssemblyInfoInputs.cache
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\ordenarVectores1\obj\Debug\netcoreapp2.1\ordenarVectores1.AssemblyInfo.cs
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\ordenarVectores1\bin\Debug\netcoreapp2.1\ordenarVectores1.deps.json
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\ordenarVectores1\bin\Debug\netcoreapp2.1\ordenarVectores1.runtimeconfig.json
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\ordenarVectores1\bin\Debug\netcoreapp2.1\ordenarVectores1.runtimeconfig.dev.json
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\ordenarVectores1\bin\Debug\netcoreapp2.1\ordenarVectores1.dll
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\ordenarVectores1\bin\Debug\netcoreapp2.1\ordenarVectores1.pdb
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\ordenarVectores1\obj\Debug\netcoreapp2.1\ordenarVectores1.dll
+C:\Users\Pablo Onofre\Desktop\Nuevo\c\ordenarVectores1\obj\Debug\netcoreapp2.1\ordenarVectores1.pdb
